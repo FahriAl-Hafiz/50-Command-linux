@@ -1,6 +1,6 @@
 # 50-Command-linux
 
-#Penjelasan singkat Linux.
+# Penjelasan singkat Linux.
 
 Linux Linux adalah sebuah sistem operasi komputer yang sangat populer, terutama di lingkungan server dan pengembangan perangkat lunak. 
 Linux berbasis pada kernel Linux yang dikembangkan oleh Linus Torvalds pada tahun 1991.

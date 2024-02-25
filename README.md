@@ -152,15 +152,18 @@ Dan linux memiliki command command yang dapat dilakukan melalui terminal , Berik
 
 36.ssh = singkatan dari "Secure Shell". Ini adalah protokol jaringan yang digunakan untuk mengamankan koneksi jaringan antara dua perangkat.
 
+![ssh](https://github.com/FahriAl-Hafiz/50-Command-linux/assets/126375451/f7856d52-e974-4465-9411-96f0abb19678)
 
-37.dnf update = Perintah "dnf update" digunakan pada sistem operasi Fedora dan CentOS untuk memperbarui semua paket yang terinstal ke versi terbaru. 
 
-![sudo dnf update](https://github.com/FahriAl-Hafiz/50-Command-linux/assets/126375451/addeee76-bc81-4a1e-ac69-a8f3d5d140fb)
+37.dnf update = Perintah "dnf update" digunakan pada sistem operasi Fedora dan CentOS untuk memperbarui semua paket yang terinstal ke versi terbaru.
+
+![sudo dnf update](https://github.com/FahriAl-Hafiz/50-Command-linux/assets/126375451/7c95a5cd-b252-48eb-849c-1780b2ff4d7d)
 
 38.dnf install =  digunakan pada sistem operasi Fedora dan CentOS untuk menginstal paket baru ke sistem. 
 
+![sudo install](https://github.com/FahriAl-Hafiz/50-Command-linux/assets/126375451/22d312c3-b280-4f7f-a029-5e74e24da821)
 
-39.sudo = adalah singkatan dari "Superuser Do". Ini adalah perintah yang digunakan dalam sistem Unix dan Linux yang memungkinkan pengguna untuk menjalankan perintah dengan hak akses superuser (root) 
+39.sudo = adalah singkatan dari "Superuser Do". Ini adalah perintah yang digunakan dalam sistem Unix dan Linux yang memungkinkan pengguna untuk menjalankan perintah dengan hak akses superuser (root).
 
 ![sudo](https://github.com/FahriAl-Hafiz/50-Command-linux/assets/126375451/e29cc1ac-a628-4e8b-8e27-fb18992c7295)
 

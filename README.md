@@ -137,3 +137,77 @@ Dan linux memiliki command command yang dapat dilakukan melalui terminal , Berik
 32.rm-r = digunakan untuk menghapus sebuah direktori beserta seluruh isi di dalamnya secara rekursif. 
 
 ![rm-r](https://github.com/FahriAl-Hafiz/50-Command-linux/assets/126375451/9df25547-49af-4277-a84a-7cedaf8d5e72)
+
+33.rm = remove , digunakan untuk menghapus file/directory secara individual.
+
+![rm](https://github.com/FahriAl-Hafiz/50-Command-linux/assets/126375451/79628d54-dc9f-4371-b123-0fcee5b06380)
+
+34.rmdir = digunakan untuk menghapus sebuah direktori kosong di dalam sistem.
+
+![rmdir](https://github.com/FahriAl-Hafiz/50-Command-linux/assets/126375451/e3892206-a135-4c2f-8d07-3861b395b2cf)
+
+35.shred = digunakan untuk menghapus file dengan cara menimpa isi file tersebut dengan data acak beberapa kali, sehingga membuatnya sulit atau bahkan tidak mungkin untuk dipulihkan. 
+
+![shred](https://github.com/FahriAl-Hafiz/50-Command-linux/assets/126375451/bd597a1d-a2c9-43d4-97b4-2bd18078f2c0)
+
+36.ssh = singkatan dari "Secure Shell". Ini adalah protokol jaringan yang digunakan untuk mengamankan koneksi jaringan antara dua perangkat.
+
+
+37.dnf update = Perintah "dnf update" digunakan pada sistem operasi Fedora dan CentOS untuk memperbarui semua paket yang terinstal ke versi terbaru. 
+
+![sudo dnf update](https://github.com/FahriAl-Hafiz/50-Command-linux/assets/126375451/addeee76-bc81-4a1e-ac69-a8f3d5d140fb)
+
+38.dnf install =  digunakan pada sistem operasi Fedora dan CentOS untuk menginstal paket baru ke sistem. 
+
+
+39.sudo = adalah singkatan dari "Superuser Do". Ini adalah perintah yang digunakan dalam sistem Unix dan Linux yang memungkinkan pengguna untuk menjalankan perintah dengan hak akses superuser (root) 
+
+![sudo](https://github.com/FahriAl-Hafiz/50-Command-linux/assets/126375451/e29cc1ac-a628-4e8b-8e27-fb18992c7295)
+
+40.systemctl = Systemctl adalah utilitas di sistem operasi Linux yang digunakan untuk mengelola layanan sistem (system services). 
+
+![systemctl](https://github.com/FahriAl-Hafiz/50-Command-linux/assets/126375451/a0e824a8-133f-4d2a-b1ec-2534c632b2e4)
+
+41.tar -xzf = digunakan untuk mengekstrak (mengurai) file arsip yang dikompresi menggunakan format gzip (.tar.gz atau .tgz).
+
+![tar -xzf](https://github.com/FahriAl-Hafiz/50-Command-linux/assets/126375451/8635b294-08bb-45bb-b042-b6c076706087)
+
+42.top = adalah utilitas di sistem operasi Unix dan Linux yang digunakan untuk memantau proses-proses yang berjalan di sistem secara real-time.
+
+![top](https://github.com/FahriAl-Hafiz/50-Command-linux/assets/126375451/74540967-0348-4e7a-ab96-df9ee70561e2)
+
+43.touch = digunakan untuk membuat file di terminal.
+
+![touch](https://github.com/FahriAl-Hafiz/50-Command-linux/assets/126375451/c1947b2d-f80b-4e50-81d4-42b365e7d4dd)
+
+44.unzip = digunakan untuk mengekstrak file kompresi zip.
+
+![unzip](https://github.com/FahriAl-Hafiz/50-Command-linux/assets/126375451/3cc062a1-3065-4a6e-89c0-99ad83d48e8c)
+
+45.unzip -d = digunakan untuk mengekstrak isi dari file zip ke direktori tertentu yang ditentukan oleh pengguna.
+
+![unziptofolder](https://github.com/FahriAl-Hafiz/50-Command-linux/assets/126375451/dbc50cec-92ee-4024-a449-ebcd39377063)
+
+46.vim = Vim adalah editor teks yang sangat kuat dan populer yang berjalan di berbagai platform, termasuk sistem operasi Unix, Linux, dan Windows. 
+
+![vim](https://github.com/FahriAl-Hafiz/50-Command-linux/assets/126375451/8ab54194-405e-4ac4-a563-2959d70ba942)
+
+47.wget = berguna untuk mengunduh file secara otomatis dari terminal atau shell.
+
+![wget](https://github.com/FahriAl-Hafiz/50-Command-linux/assets/126375451/ac8a972d-518c-4820-843b-b8c3d6ee5ca2)
+
+48.which = digunakan untuk menemukan jalur (path) lengkap dari sebuah perintah atau program yang akan dijalankan saat perintah tersebut dieksekusi di terminal.
+
+![which](https://github.com/FahriAl-Hafiz/50-Command-linux/assets/126375451/1892ead2-9af3-4f8d-b791-db3c9ddf3c1c)
+
+49.whoami = digunakan untuk menampilkan nama pengguna yang sedang aktif saat ini di terminal atau shell.
+
+![whoami](https://github.com/FahriAl-Hafiz/50-Command-linux/assets/126375451/0d060c99-4f2a-4d5d-a6bc-bcb080abebc7)
+
+50.zip = digunakan untuk mengompresi satu atau beberapa file ke dalam format file zip.
+
+![zip](https://github.com/FahriAl-Hafiz/50-Command-linux/assets/126375451/2192f8a4-b6bd-4b7e-a4b9-24028965e1e0)
+
+
+Sekarang Anda memiliki pemahaman yang lebih baik tentang beberapa perintah dasar di Linux. Dengan menguasai perintah-perintah ini, Anda dapat meningkatkan produktivitas dan efisiensi Anda saat bekerja di lingkungan Linux. Selamat mencoba eksplorasi lebih lanjut!.
+

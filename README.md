@@ -5,7 +5,7 @@ Linux berbasis pada kernel Linux yang dikembangkan oleh Linus Torvalds pada tahu
 dan didistribusikan dengan berbagai distribusi Linux yang mencakup berbagai perangkat lunak sistem operasi, 
 perangkat lunak aplikasi, dan alat pengembangan.
 
-# 50-Command-linux
+# 50 Commands Linux.
 
 Dan linux memiliki command command yang dapat dilakukan melalui terminal , Berikut adalah 50 contoh comnmands linux :
 

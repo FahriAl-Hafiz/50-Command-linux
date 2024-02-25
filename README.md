@@ -97,3 +97,43 @@ Dan linux memiliki command command yang dapat dilakukan melalui terminal , Berik
 22.lsblk = digunakan untuk menampilkan informasi tentang blok penyimpanan yang terpasang, seperti perangkat penyimpanan blok dan partisi yang terhubung ke sistem.
 
 ![lsblk](https://github.com/FahriAl-Hafiz/50-Command-linux/assets/126375451/b4a313ae-ae40-4887-8949-63f2a21a63e1)
+
+23.Man = Fungsi dari perintah "man" adalah untuk menampilkan manual atau dokumentasi pengguna dari perintah atau perangkat lunak tertentu yang tersedia di sistem.
+
+![man (sudo)](https://github.com/FahriAl-Hafiz/50-Command-linux/assets/126375451/f3142a24-3492-468a-a71d-79f308646498)
+
+24.mkdir = untuk membuat folder
+
+![mkdir](https://github.com/FahriAl-Hafiz/50-Command-linux/assets/126375451/024a0520-45be-446a-a9b2-42963e1cab18)
+
+25.mv = atau move berguna untuk memindahkan folder/file dan juga dapat berfungsi untuk mengubah nama folder atau file.
+
+![mv](https://github.com/FahriAl-Hafiz/50-Command-linux/assets/126375451/cb02420a-735c-4516-a1e2-656e601910a0)
+
+26.nano = Nano adalah sebuah editor teks sederhana yang sering digunakan di lingkungan terminal.
+
+![nano](https://github.com/FahriAl-Hafiz/50-Command-linux/assets/126375451/19a47b4e-d24b-4a03-8068-bc4734af2ce3)
+
+27.netstats = digunakan untuk menampilkan berbagai informasi terkait jaringan komputer. 
+
+![netstats](https://github.com/FahriAl-Hafiz/50-Command-linux/assets/126375451/c7cc2278-f765-4fc0-ba0d-fc87971f4b76)
+
+28.Nvim = atau neovim adalah pengembangan dari Vi.Neovim dirancang dengan mempertahankan kompatibilitas dengan Vim, sambil menambahkan fitur-fitur modern dan perbaikan teknis. 
+
+![nvim](https://github.com/FahriAl-Hafiz/50-Command-linux/assets/126375451/69a65d54-b5a6-468a-abc9-c4792682c866)
+
+29.Nvtop = nvtop adalah sebuah utilitas monitor sistem yang dirancang khusus untuk mengawasi kinerja GPU.
+
+![nvtop](https://github.com/FahriAl-Hafiz/50-Command-linux/assets/126375451/53b3afd4-1ace-4d7e-95cf-f16e48cd326d)
+
+30.Ping = digunakan untuk menguji koneksi jaringan antara dua perangkat dengan mengirim paket data ICMP (Internet Control Message Protocol) ke tujuan yang ditentukan dan menunggu balasan.
+
+![ping](https://github.com/FahriAl-Hafiz/50-Command-linux/assets/126375451/38ca2505-82ba-4f90-80b6-64494f96840e)
+
+31.pwd = digunakan untuk menampilkan direktori kerja saat ini di sistem.
+
+![pwd](https://github.com/FahriAl-Hafiz/50-Command-linux/assets/126375451/16cadde7-9765-43a0-92b5-0e2d556cf2dc)
+
+32.rm-r = digunakan untuk menghapus sebuah direktori beserta seluruh isi di dalamnya secara rekursif. 
+
+![rm-r](https://github.com/FahriAl-Hafiz/50-Command-linux/assets/126375451/9df25547-49af-4277-a84a-7cedaf8d5e72)
